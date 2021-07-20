@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+h1 {
+    color: blue;
+    background-color: yellow;
+    font-size: 50px;
+}
+
+h2 {
+    color: red;
+    background-color: skyblue;
+    font-size: 40px;
+}
+
+h3 {
+    color: blueviolet;
+    background-color: aquamarine;
+    font-size: 40px;
+}
+
+img {
+    height: 120px;
+    width: 100px;
+}
